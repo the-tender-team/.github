@@ -1,4 +1,14 @@
-## Hi there 👋
+# the-tender-team
+"Нежная" команда по разработке веб-сервиса [tender-parsing](https://github.com/the-tender-team/tender-parsing). <br> 
+(Название команды связано с названием проекта и несёт юмористический характер.)
+
+## Разработчики
+- **[iannsgirdye](https://github.com/iannsgirdye)** — тимлид, frontend-разработчик
+- **[Dearale](https://github.com/Dearale)** — backend-разработчик
+- **[Ehrmantraut0](https://github.com/Ehrmantraut0)** — backend-разработчик
+- **[shershaveliy](https://github.com/shershaveliy)** — frontend-разработчик
+
+
 
 <!--
 
