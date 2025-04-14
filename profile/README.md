@@ -1,6 +1,6 @@
 # the-tender-team
-"Нежная" команда по разработке веб-сервиса [tender-parsing](https://github.com/the-tender-team/tender-parsing). <br> 
-(Название команды связано с названием проекта и несёт юмористический характер.)
+"Нежная" команда четырёх студентов первого курса [Московского авиационного института](https://mai.ru) по разработке веб-сервиса [tender-parsing](https://github.com/the-tender-team/tender-parsing).
+
 
 ## Разработчики
 - **[iannsgirdye](https://github.com/iannsgirdye)** — тимлид, frontend-разработчик
@@ -9,6 +9,8 @@
 - **[shershaveliy](https://github.com/shershaveliy)** — frontend-разработчик
 
 
+## Примечание
+Название команды связано с названием проекта и несёт юмористический характер.
 
 <!--
 
