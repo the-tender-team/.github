@@ -1,5 +1,5 @@
 # The tender team
-"Нежная" команда четырёх студентов первого курса [Московского авиационного института](https://mai.ru) по разработке веб-сервиса [tender-parsing](https://github.com/the-tender-team/tender-parsing).
+"Нежная" команда четырёх студентов первого курса [Московского авиационного института](https://mai.ru) по разработке веб-сервиса [Tender Parsing](https://github.com/the-tender-team/tender-parsing).
 
 
 ## Разработчики
