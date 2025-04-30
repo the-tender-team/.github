@@ -1,12 +1,12 @@
-# the-tender-team
+# The tender team
 "Нежная" команда четырёх студентов первого курса [Московского авиационного института](https://mai.ru) по разработке веб-сервиса [tender-parsing](https://github.com/the-tender-team/tender-parsing).
 
 
 ## Разработчики
 - **[iannsgirdye](https://github.com/iannsgirdye)** — тимлид, frontend-разработчик
+- **[shershaveliy](https://github.com/shershaveliy)** — frontend-разработчик
 - **[Dearale](https://github.com/Dearale)** — backend-разработчик
 - **[Ehrmantraut0](https://github.com/Ehrmantraut0)** — backend-разработчик
-- **[shershaveliy](https://github.com/shershaveliy)** — frontend-разработчик
 
 
 ## Примечание
