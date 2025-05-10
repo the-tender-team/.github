@@ -4,7 +4,7 @@
 
 ## Разработчики
 - **[iannsgirdye](https://github.com/iannsgirdye)** — тимлид, frontend-разработчик
-- **[shershaveliy](https://github.com/shershaveliy)** — frontend-разработчик
+- **[shershaveliy](https://github.com/shershaveliy)** — DevOps-инженер
 - **[Dearale](https://github.com/Dearale)** — backend-разработчик
 - **[Ehrmantraut0](https://github.com/Ehrmantraut0)** — backend-разработчик
 
